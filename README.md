@@ -2,7 +2,7 @@
 
 > **A downstream application of the Field-Level Structural Synthesis (FLSS) Framework**
 
-This repository contains the interactive visualizer for the **domain ontology automatically induced** from 1,270 GATE Aerospace Engineering questions. Instead of relying on manual curation or NLP-based triplet extraction, this knowledge graph is generated directly from the structured metadata synthesized by our multi-model consensus pipeline (combining DeepSeek R1, Claude 3.5 Sonnet, and Gemini 2.5 Pro).
+This repository contains the interactive visualizer for the **domain ontology automatically induced** from 1,270 GATE Aerospace Engineering questions. Instead of relying on manual curation or NLP-based triplet extraction, this knowledge graph is generated directly from the structured metadata synthesized by our multi-model consensus pipeline (combining DeepSeek R1, Claude Sonnet 4.5, and Gemini 2.5 Pro).
 
 ---
 
